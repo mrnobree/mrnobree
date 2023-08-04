@@ -21,5 +21,5 @@
 
 
 <div style="display: inline-block"><br/>
-    <img align="center" alt="sql"src="https://news.microsoft.com/wp-content/uploads/prod/sites/113/2017/06/power-bi-logo.jpg"/>
+    <img align="center" alt="sql"src="https://news.microsoft.com/wp-content/uploads/prod/sites/113/2017/06/power-bi-logo.jpg" width="100"/>
 </div>
