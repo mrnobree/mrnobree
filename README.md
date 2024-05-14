@@ -23,3 +23,9 @@
 <div style="display: inline-block"><br/>
     <img align="center" alt="sql"src="https://news.microsoft.com/wp-content/uploads/prod/sites/113/2017/06/power-bi-logo.jpg" width="100"/>
 </div>
+
+## Tecnologias que estou aprendendo mais
+
+<div style="display: inline-block"><br/>
+    <img align="center" alt="sql"src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="100"/>
+</div>
