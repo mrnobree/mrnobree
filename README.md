@@ -1,6 +1,6 @@
 ### Olá! Me chamo Moisés Freitas ✋👨‍💻
 
-##### Sou um entusiasta de tecnologia e apaixonado por dados! Meu nome é Moisés Freitas e sou do Brasil, mais precisamente da bela cidade de Fortaleza, capital do Ceará.
+##### Sou um entusiasta de tecnologia e apaixonado por dados! Meu nome é Moisés Freitas e sou do Brasil, mais precisamente da bela cidade de Fortaleza, capital do Ceará. ☀️🇧🇷
 
 ##### Com 23 anos de idade, estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades em tecnologia, especialmente em áreas como SQL, SSMS, Power BI e ETL.
 
@@ -28,4 +28,8 @@
 
 <div style="display: inline-block"><br/>
     <img align="center" alt="sql"src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="100"/>
+</div>
+
+<div style="display: inline-block"><br/>
+    <img align="center" alt="sql"src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white" width="100"/>
 </div>
