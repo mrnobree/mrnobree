@@ -15,7 +15,7 @@
 
 ## Tecnologias que uso no dia a dia
 
-<div style="display: inline-block"><br/>
+<div style="display: inline-block">
     <img align="center" alt="sql"src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </div>
 
