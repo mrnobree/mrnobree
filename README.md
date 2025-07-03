@@ -15,33 +15,52 @@
 
 ## Tecnologias que uso no dia a dia
 
-<div style="display: inline-block">
+<div style="display: inline-block"><br/>
     <img align="center" alt="sql"src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </div>
 
-<div style="display: inline-block">
-    <img align="center" alt="sql"src="https://news.microsoft.com/wp-content/uploads/prod/sites/113/2017/06/power-bi-logo.jpg" width="100"/>
+<div style="display: inline-block"><br/>
+    <img align="center" alt="chatgpt"src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" width="100"/>
 </div>
 
 <div style="display: inline-block"><br/>
-    <img align="center" alt="sql"src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" width="100"/>
+    <img align="center" alt="proxmox"src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" width="100"/>
 </div>
 
 <div style="display: inline-block"><br/>
-    <img align="center" alt="sql"src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" width="100"/>
+    <img align="center" alt="python"src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="100"/>
 </div>
 
+<div style="display: inline-block"><br/>
+    <img align="center" alt="windows"src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" width="100"/>
+</div>
+
+<div style="display: inline-block"><br/>
+    <img align="center" alt="ubuntu"src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" width="100"/>
+</div>
+
+<div style="display: inline-block"><br/>
+    <img align="center" alt="truenas"src="https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white" width="100"/>
+</div>
+
+<div style="display: inline-block"><br/>
+    <img align="center" alt="tails"src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" width="100"/>
+</div>
+
+<div style="display: inline-block"><br/>
+    <img align="center" alt="linux"src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="100"/>
+</div>
 
 ## Tecnologias que estou aprendendo mais
 
 <div style="display: inline-block"><br/>
-    <img align="center" alt="sql"src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="100"/>
+    <img align="center" alt="docker"src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="100"/>
 </div>
 
 <div style="display: inline-block"><br/>
-    <img align="center" alt="sql"src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white" width="100"/>
+    <img align="center" alt="aws"src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" width="100"/>
 </div>
 
 <div style="display: inline-block"><br/>
-    <img align="center" alt="sql"src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="100"/>
+    <img align="center" alt="nextcloud"src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white" width="100"/>
 </div>
