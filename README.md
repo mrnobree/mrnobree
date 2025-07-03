@@ -19,8 +19,7 @@
     <img align="center" alt="sql"src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </div>
 
-
-<div style="display: inline-block"><br/>
+<div style="display: inline-block">
     <img align="center" alt="sql"src="https://news.microsoft.com/wp-content/uploads/prod/sites/113/2017/06/power-bi-logo.jpg" width="100"/>
 </div>
 
