@@ -24,6 +24,15 @@
     <img align="center" alt="sql"src="https://news.microsoft.com/wp-content/uploads/prod/sites/113/2017/06/power-bi-logo.jpg" width="100"/>
 </div>
 
+<div style="display: inline-block"><br/>
+    <img align="center" alt="sql"src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" width="100"/>
+</div>
+
+<div style="display: inline-block"><br/>
+    <img align="center" alt="sql"src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" width="100"/>
+</div>
+
+
 ## Tecnologias que estou aprendendo mais
 
 <div style="display: inline-block"><br/>
@@ -32,4 +41,8 @@
 
 <div style="display: inline-block"><br/>
     <img align="center" alt="sql"src="https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white" width="100"/>
+</div>
+
+<div style="display: inline-block"><br/>
+    <img align="center" alt="sql"src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="100"/>
 </div>
