@@ -2,9 +2,9 @@
 
 ##### Sou um entusiasta de tecnologia e apaixonado por dados! Meu nome é Moisés Freitas e sou do Brasil, mais precisamente da bela cidade de Fortaleza, capital do Ceará. ☀️🇧🇷
 
-##### Com 24 anos de idade, estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades em tecnologia, especialmente em áreas como SQL, SSMS, Power BI e ETL.
+##### Com 25 anos de idade, estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades em tecnologia, especialmente em áreas como LINUX, Devops, Cloud e Python.
 
-##### Neste espaço, pretendo compartilhar projetos e conhecimentos relacionados a essas áreas, além de aprender com a comunidade do GitHub. Se você também é apaixonado por dados ou está interessado em colaborar em projetos, sinta-se à vontade para entrar em contato. Vamos aprender e crescer juntos!
+##### Neste espaço, pretendo compartilhar projetos e conhecimentos relacionados a essas áreas, além de aprender com a comunidade do GitHub. Se você também é apaixonado por TI ou está interessado em colaborar em projetos, sinta-se à vontade para entrar em contato. Vamos aprender e crescer juntos!
 
 ##### Muito obrigado pela visita!
 
